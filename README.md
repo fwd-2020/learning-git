@@ -1,4 +1,4 @@
-# Git: Version Control is Awesome
+# Git: Version Control is Really Awesome
 
 Reasons to love Git:
 
