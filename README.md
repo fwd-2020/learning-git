@@ -4,4 +4,4 @@ Reasons to love Git:
 
 * It saves me the heartbreak of lost work
 
-Thank you for coming to my TED talk.
+Thank you for coming to my TED talk. It's been great.
